@@ -1,0 +1,108 @@
+﻿[
+  {
+    "id": "1",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "iso2": "BD"
+  },
+  {
+    "id": "2",
+    "country": "Bangladesh",
+    "city": "Khulna",
+    "iso2": "BD"
+    
+  },
+  {
+    "id": "3",
+    "country": "Bangladesh",
+    "city": "Barisal",
+    "iso2": "BD"
+  },
+  {
+    "id": "4",
+    "country": "Bangladesh",
+    "city": "Savar",
+    "iso2": "BD"
+
+  },
+  {
+    "id": "5",
+    "country": "Bangladesh",
+    "city": "Mirpur",
+    "iso2": "BD"
+
+  },
+  {
+    "id": "6",
+    "country": "India",
+    "city": "kolkata",
+    "iso2": "IN"
+  },
+  {
+    "id": "7",
+    "country": "India",
+    "city": "Delhi",
+    "iso2": "IN"
+
+  },
+  {
+    "id": "8",
+    "country": "India",
+    "city": "Rajasthan",
+    "iso2": "IN"
+
+  },
+  {
+    "id": "9",
+    "country": "India",
+    "city": "Punjabi",
+    "iso2": "IN"
+
+  },
+  {
+    "id": "10",
+    "country": "United states",
+    "city": "Los Angeles",
+    "iso2": "US"
+  },
+  {
+    "id": "11",
+    "country": "United states",
+    "city": "New York",
+    "iso2": "US"
+
+  },
+  {
+    "id": "12",
+    "country": "United states",
+    "city": "California",
+    "iso2": "US"
+
+  },
+  {
+    "id": "13",
+    "country": "United states",
+    "city": "Alaska",
+    "iso2": "US"
+
+  },
+  {
+    "id": "14",
+    "country": "France",
+    "city": "Paris",
+    "iso2": "FR"
+  },
+  {
+    "id": "15",
+    "country": "France",
+    "city": "Lyon",
+    "iso2": "FR"
+  },
+  {
+    "id": "16",
+    "country": "France",
+    "city": "Toulouse",
+    "iso2": "FR"
+
+  }
+]
